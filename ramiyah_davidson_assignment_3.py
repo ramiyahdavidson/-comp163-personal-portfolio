@@ -1,8 +1,8 @@
-Full Name = Jordan Smith
-Student email = jsmith@ncat.edu
-Hometown =Charlotte,NC
+Full Name = Ramiyah Davidson
+Student email = rrdavidson@aggies.ncat.edu
+Hometown = Atlanta ,GA
 Graduation semester = Spring 2029
-Major = Computer Science
+Major = Computer Engineering
 
 #Academic Data Organization
 current_course_list = ['COMP 163', "MATH 150", "ENG 101", "HIS 150"]
@@ -131,3 +131,4 @@ print(f"Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
