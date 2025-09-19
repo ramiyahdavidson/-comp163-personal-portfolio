@@ -1,5 +1,11 @@
+Full Name = Jordan Smith
+Student email = jsmith@ncat.edu
+Hometown =Charlotte,NC
+Graduation semester = Spring 2029
+Major = Computer Science
+
 #Academic Data Organization
-current_course_list = ['COMP 163', "MATH 150", "ENG 101", "HIS 105"]
+current_course_list = ['COMP 163', "MATH 150", "ENG 101", "HIS 150"]
 credit_hours = [3,3,3,3]
 gpa_history = [3.2, 3.6, 3.4, 3.7]
 completed_courses = ['Biology', "Chemistry",  "Calculus", "Spanish II", "World History"]
@@ -123,4 +129,5 @@ print(f"Total Courses Completed: {len(completed_courses)}")
 print(f"Current Academic Load: {academic_load} weekly commitments")
 print(f"Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
+
 print("=" * 64)
