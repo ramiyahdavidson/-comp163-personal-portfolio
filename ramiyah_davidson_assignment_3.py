@@ -5,17 +5,17 @@ Graduation semester = Spring 2029
 Major = Computer Engineering
 
 #Academic Data Organization
-current_course_list = ['COMP 163', "MATH 150", "ENG 101", "HIS 150"]
-credit_hours = [3,3,3,3]
+current_course_list = ['COMP 163', "MATH 131", "ENG 101", "ECEN 101", "FRST 101", "GEEN 100"]
+credit_hours = [3,4,3,3,1,2]
 gpa_history = [3.2, 3.6, 3.4, 3.7]
-completed_courses = ['Biology', "Chemistry",  "Calculus", "Spanish II", "World History"]
+completed_courses = ['Biology', "Chemistry",  "PreCalculus", "French II", "World History"]
 
 #Contact Information Storage
-emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
-home_address = ("456 Oak Street", "Charlotte, NC", 28202)
-instagram_info = ("Instagram", "@jordan_codes", 312)
-twitter_info = ("Twitter", "@jordan_codes", 127)
-birthday = ("Birthday", 5, 22, 2006)
+emergency_contact = ("Mom", "Trevino Davidson", "404-910-8128")
+home_address = ("124 Booker St", "Greenssboro, NC", 28202)
+instagram_info = ("Instagram", "@ramiyahrainn", 540)
+twitter_info = ("Twitter", "@ramiyahrain", 127)
+birthday = ("Birthday", 8, 29, 2007)
 
 #Interest Trcacking
 current_skills = {"Python basics", "HTML", "Problem solving", "Time management","Photography"}
@@ -131,4 +131,5 @@ print(f"Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
 
