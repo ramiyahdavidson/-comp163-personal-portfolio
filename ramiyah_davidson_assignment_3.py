@@ -22,7 +22,7 @@ current_skills = {"Python basics", "HTML", "Problem solving", "Time management",
 skills_to_learn = {"JavaScript", "Data structures", "Git", "Web design", "Public speaking"}
 career_interest = {"Software development", "Web development", "Data science", "Game development"}
 hobbies = {"Gaming", "Photography", "Reading", "Soccer", "Music"}
-entertainment_backlog = {"One peice", "Barry", "Life", "Incantation", "Memento"}
+entertainment_backlog = {"One punch man", "Snowfall", "Insecure", "Death Note", "Attack on Titan"}
 
 #Organizational Mapping
 # shows students course credits
@@ -131,5 +131,6 @@ print(f"Entertainment Backlog: {len(entertainment_backlog)} items")
 print(f"Current Hobbies: {len(hobbies)} activities")
 
 print("=" * 64)
+
 
 
